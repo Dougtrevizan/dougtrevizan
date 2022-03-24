@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Douglas Trevizan 😁
+## Bem-vindo(a) ao perfil de Douglas Trevizan 😁
 
  <div>
   <a href="https://github.com/dougtrevizan">
